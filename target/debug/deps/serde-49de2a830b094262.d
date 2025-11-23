@@ -1,0 +1,14 @@
+C:\Users\DIVYA\.gemini\antigravity\scratch\my_vector_db\target\debug\deps\serde-49de2a830b094262.d: C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\DIVYA\.gemini\antigravity\scratch\my_vector_db\target\debug\build\serde-9b433fed0ae7d3d6\out/private.rs
+
+C:\Users\DIVYA\.gemini\antigravity\scratch\my_vector_db\target\debug\deps\libserde-49de2a830b094262.rlib: C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\DIVYA\.gemini\antigravity\scratch\my_vector_db\target\debug\build\serde-9b433fed0ae7d3d6\out/private.rs
+
+C:\Users\DIVYA\.gemini\antigravity\scratch\my_vector_db\target\debug\deps\libserde-49de2a830b094262.rmeta: C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\DIVYA\.gemini\antigravity\scratch\my_vector_db\target\debug\build\serde-9b433fed0ae7d3d6\out/private.rs
+
+C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\DIVYA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\DIVYA\.gemini\antigravity\scratch\my_vector_db\target\debug\build\serde-9b433fed0ae7d3d6\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\DIVYA\\.gemini\\antigravity\\scratch\\my_vector_db\\target\\debug\\build\\serde-9b433fed0ae7d3d6\\out

@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=proto/vector_db.proto
+cargo:rerun-if-changed=proto

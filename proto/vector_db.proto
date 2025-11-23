@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package vector_db;
+
+service VectorDb {
+  // Insert a vector into the database
+  rpc Put (PutRequest) returns (PutResponse);
+  
+  // Search for nearest neighbors
+  rpc Search (SearchRequest) returns (SearchResponse);
+
+  // Trigger a snapshot save
+  rpc Snapshot (SnapshotRequest) returns (SnapshotResponse);
+}
+
+message PutRequest {
+  uint32 id = 1;
+  repeated float vector = 2;
+}
+
+message PutResponse {
+  bool success = 1;
+}
+
+message SearchRequest {
+  repeated float vector = 1;
+  uint32 k = 2; // Number of neighbors to return
+}
+
+message SearchResponse {
+  repeated SearchResult results = 1;
+}
+
+message SearchResult {
+  uint32 id = 1;
+  float distance = 2;
+}
+
+message SnapshotRequest {}
+
+message SnapshotResponse {
+  bool success = 1;
+}
